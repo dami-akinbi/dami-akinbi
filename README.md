@@ -7,6 +7,7 @@ I am an IT and Cloud Support Engineer actively building and automating multiclou
 * **Infrastructure as Code (IaC):** Terraform, Azure Bicep, ARM Templates
 * **Scripting & Automation:** PowerShell, Bash, Azure CLI, gcloud CLI
 * **Operating Systems:** Linux (Ubuntu) & Windows Server Administration
+* **Documentation**: Google Docs (Top 1% Globally)
 
 ### Certifications & Continuous Learning
 * **Google Cloud Certified:** Associate Cloud Engineer (ACE)
@@ -16,7 +17,7 @@ I am an IT and Cloud Support Engineer actively building and automating multiclou
 ### What I'm Building
 I am currently developing my [Multicloud Infrastructure Portfolio](https://github.com/dami-akinbi/cloud-portfolio), systematically deploying secure virtual networks and compute instances via code. I believe in documenting operations clearly and treating infrastructure as software. 
 
-📫 **Let's Connect:** [[LinkedIn Profile URL]](https://www.linkedin.com/in/damilolaakinbi/)
+📫 **Let's Connect:** [LinkedIn Profile URL](https://www.linkedin.com/in/damilolaakinbi/)
 
 <!--
 **dami-akinbi/dami-akinbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
