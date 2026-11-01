@@ -1,4 +1,4 @@
-# Damilola Akinbi here
+# Damilola Akinbi
 
 I am an IT and Cloud Support Engineer actively building and automating multicloud environments. I specialize in translating complex technical troubleshooting into structured, scalable infrastructure. My current focus is advancing into a full-time Cloud Engineer and Solutions Architect role by designing secure, automated architectures across Azure and Google Cloud Platform.
 
