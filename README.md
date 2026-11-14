@@ -1,7 +1,7 @@
 # Damilola Akinbi
 
-[![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Azure-AZ--104%20Certified-0078D4?style=flat-square&logo=microsoftazure)](https://www.credly.com/users/damilolaakinbi/badges/credly)
-[![Google Cloud Certified: Associate Cloud Engineer](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=googlecloud)](https://www.credly.com/users/damilolaakinbi/badges/credly)
+[![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Azure-AZ--104%20Certified-0078D4?style=flat-square&logo=microsoftazure)](https://learn.microsoft.com/en-us/users/damilolaakinbi/credentials/9fc53585f52d0f1e)
+[![Google Cloud Certified: Associate Cloud Engineer](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=googlecloud)](https://www.credly.com/badges/ffd1b052-0e25-47ac-ac8b-eb8ba8b1b6a2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/damilolaakinbi/)
 [![Credly](https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/damilolaakinbi/badges/credly)
 
@@ -15,7 +15,7 @@
 * **Infrastructure as Code (IaC):** HashiCorp Terraform, Azure Bicep, ARM Templates
 * **CI/CD & Containers:** GitHub Actions, Docker, AKS, GKE, Cloud Run, Azure Container Apps
 * **Networking & Zero-Trust Security:** VNet / VPC Peering, Azure Bastion, GCP Identity-Aware Proxy (IAP), RBAC & IAM Least Privilege
-* **Observability & FinOps:** Azure Monitor, Log Analytics (KQL), GCP Cloud Logging & Monitoring, SKU Right-Sizing & Cost Governance
+* **Observability & FinOps:** Azure Monitor, GCP Cloud Logging & Monitoring, SKU Right-Sizing & Cost Governance
 * **Scripting & Operating Systems:** PowerShell, Bash, Azure CLI, `gcloud` CLI, Linux (Ubuntu), Windows Server
 
 ---
