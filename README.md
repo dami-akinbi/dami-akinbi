@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/damilolaakinbi/)
 [![Credly](https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/damilolaakinbi/badges/credly)
 
-**Cloud & DevOps Engineer** specializing in multi-cloud Infrastructure as Code (IaC), automated CI/CD delivery, and FinOps cost governance across **Microsoft Azure** and **Google Cloud Platform (GCP)**. I design, automate, and troubleshoot resilient cloud architectures — treating infrastructure as version-controlled, testable software.
+**Cloud & DevOps Engineer** specializing in multi-cloud Infrastructure as Code (IaC), automated CI/CD delivery, and FinOps cost governance across **Microsoft Azure** and **Google Cloud Platform (GCP)**. I design, automate, and troubleshoot resilient cloud architectures, treating infrastructure as version-controlled, testable software.
 
 ---
 
@@ -31,7 +31,7 @@ View all verified credentials on [Credly](https://www.credly.com/users/damilolaa
 
 ### Featured Cloud Engineering Work
 
-* **[Azure & GCP IaC Architectures](https://github.com/dami-akinbi/azure-gcp-iac-architectures)** — A 24-deployment multi-cloud repository implementing 12 mirrored enterprise architectures (zero-trust Bastion/IAP, AKS/GKE clusters, KQL/Cloud Monitoring alerting, and Hub-and-Spoke peering) via **Azure Bicep**, **Terraform**, and path-filtered **GitHub Actions** pipelines with strict FinOps teardown hygiene.
+* **[Azure & GCP IaC Architectures](https://github.com/dami-akinbi/azure-gcp-iac-architectures):** A 24-deployment multi-cloud repository implementing 12 mirrored enterprise architectures (zero-trust Bastion/IAP, AKS/GKE clusters, KQL/Cloud Monitoring alerting, and Hub-and-Spoke peering) via **Azure Bicep**, **Terraform**, and path-filtered **GitHub Actions** pipelines with strict FinOps teardown hygiene.
 * **Applied Cloud Systems (In Development):** Building dedicated dual-cloud repositories for an **Event-Driven Real-Time Fraud Detection Pipeline** and a **Customer Churn Prediction Platform**, engineered with remote Terraform state backends, state locking, and PR-to-Main CI/CD workflows.
 
 ---
