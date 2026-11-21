@@ -12,11 +12,11 @@
 ### Core Technical Stack
 
 * **Cloud Platforms:** Microsoft Azure, Google Cloud Platform (GCP)
-* **Infrastructure as Code (IaC):** HashiCorp Terraform, Azure Bicep, ARM Templates
-* **CI/CD & Containers:** GitHub Actions, Docker, AKS, GKE, Cloud Run, Azure Container Apps
-* **Networking & Zero-Trust Security:** VNet / VPC Peering, Azure Bastion, GCP Identity-Aware Proxy (IAP), RBAC & IAM Least Privilege
+* **Infrastructure as Code (IaC):** HashiCorp Terraform, Azure Bicep
+* **CI/CD & Containers:** GitHub Actions, Docker, Cloud Run, Azure Container Apps
 * **Observability & FinOps:** Azure Monitor, GCP Cloud Logging & Monitoring, SKU Right-Sizing & Cost Governance
 * **Scripting & Operating Systems:** PowerShell, Bash, Azure CLI, `gcloud` CLI, Linux (Ubuntu), Windows Server
+* **Documentation:** Google Docs (Top 1% Globally)
 
 ---
 
@@ -24,8 +24,6 @@
 
 * **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 * **Google Cloud Certified: Associate Cloud Engineer (ACE)**
-
-View all verified credentials on [Credly](https://www.credly.com/users/damilolaakinbi/badges/credly).
 
 ---
 
