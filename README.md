@@ -30,7 +30,7 @@
 ### Featured Cloud Engineering Work
 
 * **[Azure & GCP IaC Architectures](https://github.com/dami-akinbi/azure-gcp-iac-architectures):** A 24-deployment multi-cloud repository implementing 12 mirrored enterprise architectures (zero-trust Bastion/IAP, AKS/GKE clusters, KQL/Cloud Monitoring alerting, and Hub-and-Spoke peering) via **Azure Bicep**, **Terraform**, and path-filtered **GitHub Actions** pipelines with strict FinOps teardown hygiene.
-* **Applied Cloud Systems (In Development):** Building dedicated dual-cloud repositories for an **Event-Driven Real-Time Fraud Detection Pipeline** and a **Customer Churn Prediction Platform**, engineered with remote Terraform state backends, state locking, keyless OIDC, and PR-to-Main CI/CD workflows.
+* **Applied Cloud Systems:** Building dedicated dual-cloud repositories for an **Event-Driven Real-Time Fraud Detection Pipeline** engineered with remote Terraform state backends, state locking, keyless OIDC, and PR-to-Main CI/CD workflows.
 
 ---
 
